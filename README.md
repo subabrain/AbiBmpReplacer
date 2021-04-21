@@ -6,4 +6,4 @@ Please Note: ONLY Use BMP Files with max Resolution 256 x 256 pixel and 256 colo
 Version 0.4 Beta is out now!
 
 
-![alt text](https://burncycle.de/share/screenshot_abi_replacer.png)
+![alt text](https://burncycle.de/share/REPLACER.png)
