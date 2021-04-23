@@ -6,5 +6,7 @@ Please Note: ONLY Use BMP Files with max Resolution 256 x 256 pixel and 256 colo
 
 Version 0.6 Beta is out now!
 
+Now all ABI Files should work :)
+
 
 ![alt text](https://burncycle.de/share/Replacer06.png)
