@@ -7,7 +7,7 @@ KNOWN BUGS - Version 0.5 Beta:
 
 - some ABI Files cant be read - will fix in next Version ;)
 
-Version 0.5 Beta is out now!
+Version 0.6 Beta is out now!
 
 
-![alt text](https://burncycle.de/share/REPLACER05.png)
+![alt text](https://burncycle.de/share/replacer06.png)
