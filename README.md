@@ -3,7 +3,7 @@ Replace Textures in Commandos 2 ABI Files - Even in higher Resolutions...
 
 Please Note: ONLY Use BMP Files with max Resolution 256 x 256 pixel and 256 colors ...
 
-AND: For better Results - use optimized colors ... then the textures look better ;)
+AND: For better Results - use optimized colors palettes ... then the textures looks better ;)
 
 
 Version 0.6 Beta is out now!
