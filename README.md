@@ -11,6 +11,7 @@ Version 0.6 Beta is out now!
 Now all ABI Files should work :)
 
 
-EDIT: Please Note - you must have the newest version of directx installed :)
+EDIT: Please Note - you must have the newest version of directx installed :
 
-![2022-01-06 11_15_57-neu 29 - Notepad++](https://user-images.githubusercontent.com/7425736/148684955-8e7f64f7-6663-41a1-9e91-dd47660c3dd0.png)
+
+![2022-01-09 14_47_53-_neu 1 - Notepad++](https://user-images.githubusercontent.com/7425736/148684999-03e5753b-2c71-4d96-a66a-e2990620e88c.png)
