@@ -6,7 +6,7 @@ Please Note: ONLY Use BMP Files with max Resolution 256 x 256 pixel and 256 colo
 AND: For better Results - use optimized colors palettes ... then the textures looks better ;)
 
 
-Version 0.6 Beta is out now!
+Version 0.7 Beta is out now!
 
 Now all ABI Files should work :)
 
