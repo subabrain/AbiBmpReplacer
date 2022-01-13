@@ -2,7 +2,7 @@
 Replace Textures in Commandos 2 ABI Files - Even in higher Resolutions...
 
 
-## WARNING: The Version 0.7 Beta is buggy ... will be fixed in Version 0.8 Beta ... will be released soon!
+### WARNING: The Version 0.7 Beta is buggy ... will be fixed in Version 0.8 Beta ... will be released soon!
 
 
 Please Note: ONLY Use BMP Files with max Resolution 256 x 256 pixel and 256 colors ...
