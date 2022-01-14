@@ -2,24 +2,15 @@
 Replace Textures in Commandos 2 ABI Files - Even in higher Resolutions...
 
 
-
-
-### WARNING: The Version 0.7 Beta is buggy ... will be fixed in Version 0.8 Beta ... will be released soon!
-
-
-
-
 Please Note: ONLY Use BMP Files with max Resolution 256 x 256 pixel and 256 colors ...
 
 AND: For better Results - use optimized colors palettes ... then the textures looks better ;)
 
 
-Version 0.7 Beta is out now!
-
-Now all ABI Files should work :)
+Version 0.8 Beta is out now!
 
 
 EDIT: Please Note - you must have the newest version of directx installed :
 
+![2022-01-14 23_41_22-_neu 42 - Notepad++](https://user-images.githubusercontent.com/7425736/149594694-681cea01-3517-40ec-944f-00c0c5c15699.png)
 
-![2022-01-09 14_47_53-_neu 1 - Notepad++](https://user-images.githubusercontent.com/7425736/148684999-03e5753b-2c71-4d96-a66a-e2990620e88c.png)
